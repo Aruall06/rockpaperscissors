@@ -1,0 +1,23 @@
+h1{
+  margin-left: 17em;
+  text-shadow: 0px 10px 10px rgba(0,0,0,.1);
+}
+li{
+  margin-left: 13em;
+  list-style: none;
+  display: inline-block;
+}
+
+#scoreBoard{
+  display: inline-block;
+  margin-left: 39em;
+  border: 2px groove #C0C0C0;
+  box-shadow: 10px 10px 10px rgba(0,0,0,.1);
+	display: inline-block;
+  text-align: center;
+  text-shadow: 0px 10px 10px rgba(0,0,0,.1);
+}
+
+textarea{
+  text-align: center;
+}
